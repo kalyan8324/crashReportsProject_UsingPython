@@ -2,3 +2,21 @@
 venv/
 __pycache__/
 server/__pycache__/
+
+# Virtual environment
+.venv/
+venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+.env
+.env/
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
